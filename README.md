@@ -1,4 +1,4 @@
-# AOS Assignment 4
+# Peer-to-Peer File Sharing System
 ## tracker.cpp
 ### The following command is used to run tracker:
 g++ tracker.cpp -o tracker
